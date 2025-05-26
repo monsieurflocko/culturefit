@@ -1,3 +1,4 @@
+from fastapi.middleware.cors import CORSMiddleware
 from fastapi import FastAPI
 from pydantic import BaseModel
 from typing import List
@@ -7,6 +8,13 @@ from sklearn.metrics.pairwise import cosine_similarity
 from openai import OpenAI
 
 app = FastAPI()
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # oder z. B. ["http://localhost:3000"]
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 # ✅ Request-Modell richtig definiert
 class MatchRequest(BaseModel):
