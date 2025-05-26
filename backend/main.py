@@ -8,9 +8,10 @@ from sklearn.metrics.pairwise import cosine_similarity
 from openai import OpenAI
 
 app = FastAPI()
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # oder z. B. ["http://localhost:3000"]
+    allow_origins=["http://localhost:3000"],  # Hier explizit deine lokale Dev-URL eintragen
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
