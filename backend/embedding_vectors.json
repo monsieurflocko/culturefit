@@ -2,7 +2,7 @@
   {
     "id": "1",
     "name": "Syngenio AG",
-    "description_short": "Ein IT-Beratungsunternehmen mit Fokus auf digitale Finanzdienstleistungen. Syngenio entwickelt individuelle Softwarelösungen und Plattformen für Banken, FinTechs und Zahlungsdienstleister – von Mobile Banking bis zu Payment-Innovationen. Der Schwerpunkt liegt auf agiler Umsetzung und technologischer Exzellenz für regulierte Märkte.",
+    "description_short": "Ein IT-Beratungsunternehmen mit Fokus auf digitale Finanzdienstleistungen. Syngenio entwickelt individuelle Softwarelösungen und Plattformen für Banken, FinTechs und Zahlungsdienstleister.",
     "vector": [
       0.0050073959864676,
       -0.0007544365944340825,
@@ -1545,7 +1545,7 @@
   {
     "id": "2",
     "name": "Siemens AG",
-    "description_short": "Ein weltweit führendes Technologieunternehmen, das Lösungen in den Bereichen Industrieautomatisierung, Energie, Mobilität und Gesundheitswesen entwickelt. Siemens bedient vor allem Großunternehmen und öffentliche Auftraggeber mit Fokus auf Digitalisierung und nachhaltige Infrastrukturprojekte.",
+    "description_short": "Ein weltweit führendes Technologieunternehmen, das Lösungen in den Bereichen Industrieautomatisierung, Energie, Mobilität und Gesundheitswesen entwickelt.",
     "vector": [
       0.012099680490791798,
       -0.005597576964646578,
@@ -4631,7 +4631,7 @@
   {
     "id": "4",
     "name": "Deutsche Bahn AG",
-    "description_short": "Ein integriertes Mobilitäts- und Logistikunternehmen, das Personen- und Güterverkehr in Deutschland und Europa betreibt. Die DB bietet multimodale Transportlösungen und richtet sich an Endverbraucher, Industrie und öffentliche Auftraggeber mit Fokus auf nachhaltiger Mobilität.",
+    "description_short": "Ein integriertes Mobilitäts- und Logistikunternehmen, das Personen- und Güterverkehr in Deutschland und Europa betreibt.",
     "vector": [
       -0.004720131866633892,
       -0.007348942570388317,
@@ -6174,7 +6174,7 @@
   {
     "id": "5",
     "name": "BioNTech SE",
-    "description_short": "Ein biopharmazeutisches Unternehmen, das innovative Immuntherapien zur Krebsbehandlung und mRNA-basierte Impfstoffe entwickelt. BioNTech arbeitet eng mit Forschungspartnern und Gesundheitsbehörden zusammen und richtet sich an globale Gesundheitssysteme mit Fokus auf personalisierte Medizin.",
+    "description_short": "Ein biopharmazeutisches Unternehmen, das innovative Immuntherapien zur Krebsbehandlung und mRNA-basierte Impfstoffe entwickelt.",
     "vector": [
       -0.020045002922415733,
       -0.013852342963218689,
@@ -7717,7 +7717,7 @@
   {
     "id": "6",
     "name": "Helmholtz Zentrum München (GmbH)",
-    "description_short": "Ein interdisziplinäres Forschungszentrum, das innovative Ansätze zur Prävention und Behandlung chronischer Krankheiten an der Schnittstelle von Gesundheit und Umwelt entwickelt. Die Forschung richtet sich vor allem an medizinische Fachkreise, öffentliche Institutionen und die Wissenschaftsgemeinschaft.",
+    "description_short": "Ein interdisziplinäres Forschungszentrum, das innovative Ansätze zur Prävention und Behandlung chronischer Krankheiten an der Schnittstelle von Gesundheit und Umwelt entwickelt.",
     "vector": [
       -0.008371960371732712,
       0.016508642584085464,
@@ -9260,7 +9260,7 @@
   {
     "id": "7",
     "name": "Commerzbank AG",
-    "description_short": "Eine führende deutsche Geschäftsbank mit Schwerpunkt auf Privat- und Firmenkundengeschäft. Die Commerzbank bietet klassische Bankdienstleistungen, Finanzierungslösungen und digitale Banking-Produkte – insbesondere für mittelständische Unternehmen und institutionelle Kunden.",
+    "description_short": "Eine führende deutsche Geschäftsbank mit Schwerpunkt auf Privat- und Firmenkundengeschäft.",
     "vector": [
       -0.004948674235492945,
       -0.004407109227031469,
@@ -10803,7 +10803,7 @@
   {
     "id": "8",
     "name": "Otto GmbH & Co. KGaA",
-    "description_short": "Ein international agierender Handels- und E-Commerce-Konzern mit Schwerpunkt auf Online-Versandhandel und digitalen Plattformlösungen. Otto richtet sich an Endverbraucher in Europa und investiert gezielt in datengetriebenen Handel, Logistik und Tech-Innovationen.",
+    "description_short": "Ein international agierender Handels- und E-Commerce-Konzern mit Schwerpunkt auf Online-Versandhandel und digitalen Plattformlösungen.",
     "vector": [
       0.005988901015371084,
       -0.018868962302803993,
@@ -12346,7 +12346,7 @@
   {
     "id": "9",
     "name": "Capgemini Deutschland GmbH",
-    "description_short": "Ein weltweit tätiges Beratungs- und IT-Dienstleistungsunternehmen, das Unternehmen bei der digitalen Transformation unterstützt. Capgemini bietet Services in den Bereichen Technologieberatung, Cloud, Datenanalyse und Softwareentwicklung – mit Fokus auf Großkunden aus Industrie, Finanzwesen und öffentlichem Sektor.",
+    "description_short": "Ein weltweit tätiges Beratungs- und IT-Dienstleistungsunternehmen, das Unternehmen bei der digitalen Transformation unterstützt.",
     "vector": [
       -0.00942050851881504,
       -0.011036740615963936,
@@ -13889,7 +13889,7 @@
   {
     "id": "10",
     "name": "Rheinmetall AG",
-    "description_short": "Ein Technologiekonzern mit den Schwerpunkten Verteidigung und Automobilzulieferung. Rheinmetall entwickelt unter anderem militärische Systeme, Sensorik sowie umweltfreundliche Antriebslösungen für zivile Fahrzeuge und bedient vorwiegend staatliche Institutionen sowie die Automobilindustrie.",
+    "description_short": "Ein Technologiekonzern mit den Schwerpunkten Verteidigung und Automobilzulieferung.",
     "vector": [
       -0.005243756342679262,
       1.657940447330475e-05,
@@ -15432,7 +15432,7 @@
   {
     "id": "11",
     "name": "TIER Mobility SE",
-    "description_short": "Ein europäischer Mikromobilitätsanbieter, der E-Scooter, E-Bikes und E-Mopeds für den urbanen Verkehr bereitstellt. TIER richtet sich an Endnutzer in Städten und verfolgt das Ziel, nachhaltige Mobilitätslösungen als Alternative zum Auto zu etablieren.",
+    "description_short": "Ein europäischer Mikromobilitätsanbieter, der E-Scooter, E-Bikes und E-Mopeds für den urbanen Verkehr bereitstellt.",
     "vector": [
       0.01303882896900177,
       -0.04110008105635643,
@@ -16975,7 +16975,7 @@
   {
     "id": "12",
     "name": "Ada Health GmbH",
-    "description_short": "Ein Health-Tech-Unternehmen, das eine KI-gestützte App zur medizinischen Symptomanalyse entwickelt hat. Ada richtet sich an Endnutzer und Gesundheitssysteme weltweit und unterstützt frühzeitige Diagnosen sowie personalisierte Gesundheitsberatung.",
+    "description_short": "Ein Health-Tech-Unternehmen, das eine KI-gestützte App zur medizinischen Symptomanalyse entwickelt hat.",
     "vector": [
       0.012361492961645126,
       0.015013741329312325,
@@ -18518,7 +18518,7 @@
   {
     "id": "13",
     "name": "Phoenix Contact GmbH & Co. KG",
-    "description_short": "Ein weltweit tätiges Industrieunternehmen, das Komponenten, Systeme und Lösungen in der Elektrotechnik, Automation und Digitalisierung anbietet. Kunden sind vor allem Industrieunternehmen, Energieversorger und Maschinenbauer.",
+    "description_short": "Ein weltweit tätiges Industrieunternehmen, das Komponenten, Systeme und Lösungen in der Elektrotechnik, Automation und Digitalisierung anbietet.",
     "vector": [
       -0.005348948761820793,
       -0.011152426712214947,
@@ -20061,7 +20061,7 @@
   {
     "id": "14",
     "name": "Deloitte Deutschland GmbH",
-    "description_short": "Ein international führendes Prüfungs- und Beratungsunternehmen mit Leistungen in den Bereichen Audit, Steuerberatung, Consulting, Financial Advisory und Risk Management. Deloitte betreut Konzerne, Mittelstand und öffentliche Einrichtungen.",
+    "description_short": "Ein international führendes Prüfungs- und Beratungsunternehmen mit Leistungen in den Bereichen Audit, Steuerberatung, Consulting, Financial Advisory und Risk Management.",
     "vector": [
       0.0023423584643751383,
       -0.013195661827921867,
@@ -21604,7 +21604,7 @@
   {
     "id": "15",
     "name": "betterplace.org gGmbH",
-    "description_short": "Deutschlands größte Online-Spendenplattform für soziale Projekte. betterplace.org verbindet gemeinnützige Organisationen mit Spendern und Unternehmen und bietet digitale Tools zur Projektförderung, Fundraising und CSR-Integration.",
+    "description_short": "Deutschlands größte Online-Spendenplattform für soziale Projekte.",
     "vector": [
       -0.015420516952872276,
       -0.017871372401714325,
@@ -23147,7 +23147,7 @@
   {
     "id": "16",
     "name": "MONSOON Digital Marketing",
-    "description_short": "Eine Digitalagentur mit Fokus auf datengetriebenes Performance Marketing, E-Commerce-Lösungen und kreative Markenkommunikation. MONSOON betreut vor allem wachstumsorientierte Unternehmen aus dem Lifestyle- und Consumer-Bereich.",
+    "description_short": "Eine Digitalagentur mit Fokus auf datengetriebenes Performance Marketing, E-Commerce-Lösungen und kreative Markenkommunikation.",
     "vector": [
       -0.009152362123131752,
       0.004251910839229822,
@@ -24689,8 +24689,8 @@
   },
   {
     "id": "17",
-    "name": "NXI GmbH & Co. KG",
-    "description_short": "Ein Beratungs- und Technologieunternehmen, das sich auf digitale Geschäftsmodelle, Innovationsstrategien und digitale Transformation spezialisiert. NXI unterstützt vor allem mittelständische Unternehmen und Konzerne bei der Entwicklung zukunftsfähiger Lösungen.",
+    "name": "NXI GmbH & Co. KG", 
+    "description_short": "Ein Beratungs- und Technologieunternehmen, das sich auf digitale Geschäftsmodelle, Innovationsstrategien und digitale Transformation spezialisiert.",
     "vector": [
       0.010333877988159657,
       0.00019050764967687428,
@@ -26233,7 +26233,7 @@
   {
     "id": "18",
     "name": "GoodMills Deutschland GmbH",
-    "description_short": "Einer der größten Mühlenbetreiber Deutschlands, der hochwertige Mehlprodukte für Industrie, Handwerk und Handel herstellt. GoodMills beliefert Bäckereien, Lebensmittelhersteller und den Einzelhandel mit Fokus auf Qualität, Innovation und Nachhaltigkeit.",
+    "description_short": "Einer der größten Mühlenbetreiber Deutschlands, der hochwertige Mehlprodukte für Industrie, Handwerk und Handel herstellt.",
     "vector": [
       -0.016430696472525597,
       -0.006635221187025309,
@@ -27776,7 +27776,7 @@
   {
     "id": "19",
     "name": "Funk Gruppe GmbH",
-    "description_short": "Ein unabhängiger Versicherungsmakler und Risikoberater, der maßgeschneiderte Versicherungslösungen für Unternehmen entwickelt. Die Funk Gruppe betreut insbesondere den Mittelstand und bietet darüber hinaus Leistungen im Bereich Employee Benefits und Risikomanagement.",
+    "description_short": "Ein unabhängiger Versicherungsmakler und Risikoberater, der maßgeschneiderte Versicherungslösungen für Unternehmen entwickelt.",
     "vector": [
       0.014079269953072071,
       -0.0057101477868855,
@@ -29319,7 +29319,7 @@
   {
     "id": "20",
     "name": "WEINMANN Emergency Medical Technology GmbH + Co. KG",
-    "description_short": "Ein Medizintechnikunternehmen, das mobile Geräte zur Notfall- und Transportbeatmung sowie Absaugung entwickelt. Die Produkte richten sich an Rettungsdienste, Krankenhäuser und Katastrophenschutzeinheiten weltweit.",
+    "description_short": "Ein Medizintechnikunternehmen, das mobile Geräte zur Notfall- und Transportbeatmung sowie Absaugung entwickelt.",
     "vector": [
       0.0050664967857301235,
       -0.0015639617340639234,
@@ -30862,7 +30862,7 @@
   {
     "id": "22",
     "name": "1KOMMA5° GmbH",
-    "description_short": "Ein GreenTech-Unternehmen, das Komplettlösungen für klimaneutrales Wohnen anbietet – von Photovoltaik über Stromspeicher bis hin zu Wärmepumpen. Die Leistungen richten sich an Privatkunden und Hausbesitzer, die ihre Energieversorgung nachhaltig gestalten wollen.",
+    "description_short": "Ein GreenTech-Unternehmen, das Komplettlösungen für klimaneutrales Wohnen anbietet – von Photovoltaik über Stromspeicher bis hin zu Wärmepumpen.",
     "vector": [
       0.021793464198708534,
       -0.007779606152325869,
@@ -32405,7 +32405,7 @@
   {
     "id": "23",
     "name": "Beiersdorf AG",
-    "description_short": "Ein international tätiger Konsumgüterkonzern, der Hautpflege- und Kosmetikprodukte unter Marken wie NIVEA, Eucerin und Labello vertreibt. Beiersdorf richtet sich an Endverbraucher weltweit und kombiniert dermatologische Forschung mit globalem Markenmanagement.",
+    "description_short": "Ein international tätiger Konsumgüterkonzern, der Hautpflege- und Kosmetikprodukte unter Marken wie NIVEA, Eucerin und Labello vertreibt.",
     "vector": [
       -0.009942637756466866,
       -0.004127681255340576,
@@ -33948,7 +33948,7 @@
   {
     "id": "25",
     "name": "EDEKA ZENTRALE Stiftung & Co. KG",
-    "description_short": "Die zentrale Organisation eines der größten Lebensmittelhändler Deutschlands. Sie koordiniert Einkauf, Logistik, Marketing und Expansion für die selbstständigen EDEKA-Kaufleute und entwickelt Strategien für den Einzel- und Großhandel im Lebensmittelbereich.",
+    "description_short": "Die zentrale Organisation eines der größten Lebensmittelhändler Deutschlands.",
     "vector": [
       -0.001434467383660376,
       0.008636517450213432,
@@ -35491,7 +35491,7 @@
   {
     "id": "26",
     "name": "Implisense GmbH",
-    "description_short": "Ein B2B-Data-Intelligence-Unternehmen, das KI-gestützte Lösungen zur Analyse, Anreicherung und Prognose von Unternehmensdaten entwickelt. Implisense richtet sich an Marketing-, Vertriebs- und Analyseabteilungen, die datenbasiertes Targeting betreiben.",
+    "description_short": "Ein B2B-Data-Intelligence-Unternehmen, das KI-gestützte Lösungen zur Analyse, Anreicherung und Prognose von Unternehmensdaten entwickelt.",
     "vector": [
       -0.016853559762239456,
       -0.005724678281694651,
@@ -37034,7 +37034,7 @@
   {
     "id": "27",
     "name": "Tagueri AG",
-    "description_short": "Ein Technologie- und Innovationsberatungsunternehmen, das Kunden bei komplexen Entwicklungsprojekten in den Bereichen Automotive, Luft- und Raumfahrt sowie Digitalisierung unterstützt. Tagueri arbeitet überwiegend projektbasiert mit Großunternehmen und Technologiekonzernen.",
+    "description_short": "Ein Technologie- und Innovationsberatungsunternehmen, das Kunden bei komplexen Entwicklungsprojekten in den Bereichen Automotive, Luft- und Raumfahrt sowie Digitalisierung unterstützt.",
     "vector": [
       -0.0021059478167444468,
       0.0054023596458137035,
@@ -38577,7 +38577,7 @@
   {
     "id": "28",
     "name": "team neusta GmbH",
-    "description_short": "Eine inhabergeführte Digitalgruppe, die IT-Dienstleistungen in den Bereichen Softwareentwicklung, digitale Transformation und Beratung anbietet. team neusta arbeitet projektbasiert für Kunden aus Industrie, Handel, Tourismus und öffentlichem Sektor.",
+    "description_short": "Eine inhabergeführte Digitalgruppe, die IT-Dienstleistungen in den Bereichen Softwareentwicklung, digitale Transformation und Beratung anbietet.",
     "vector": [
       0.00012997756130062044,
       -0.014498645439743996,
@@ -40120,7 +40120,7 @@
   {
     "id": "29",
     "name": "enercity Contracting Nord GmbH",
-    "description_short": "Ein Energiedienstleister, der sich auf die dezentrale Versorgung mit Wärme, Kälte und Strom spezialisiert. Das Unternehmen plant, baut und betreibt energieeffiziente Versorgungslösungen für Wohnquartiere, Gewerbe und öffentliche Einrichtungen.",
+    "description_short": "Ein Energiedienstleister, der sich auf die dezentrale Versorgung mit Wärme, Kälte und Strom spezialisiert.",
     "vector": [
       0.022104252129793167,
       -0.009084487333893776,
@@ -41663,7 +41663,7 @@
   {
     "id": "30",
     "name": "Generali Deutschland AG",
-    "description_short": "Ein führender Versicherungsanbieter mit breit aufgestelltem Portfolio in Lebens-, Kranken- und Sachversicherungen. Die Generali richtet sich an Privat- und Firmenkunden und kombiniert traditionelle Versicherungsleistungen mit digitalen Services.",
+    "description_short": "Ein führender Versicherungsanbieter mit breit aufgestelltem Portfolio in Lebens-, Kranken- und Sachversicherungen.",
     "vector": [
       0.006145486142486334,
       -0.003348797094076872,
@@ -43206,7 +43206,7 @@
   {
     "id": "31",
     "name": "A.P. Møller - Mærsk A/S",
-    "description_short": "Ein weltweit tätiger Logistik- und Schifffahrtskonzern, der Containertransporte, Supply-Chain-Lösungen und Hafendienste anbietet. Maersk bedient globale Industriekunden mit Fokus auf integrierte Transportlösungen entlang der gesamten Lieferkette.",
+    "description_short": "Ein weltweit tätiger Logistik- und Schifffahrtskonzern, der Containertransporte, Supply-Chain-Lösungen und Hafendienste anbietet.",
     "vector": [
       -0.001479750033468008,
       -0.010777979157865047,
@@ -44749,7 +44749,7 @@
   {
     "id": "32",
     "name": "Capco",
-    "description_short": "Ein global agierendes Beratungsunternehmen mit Fokus auf die Finanzdienstleistungsbranche. Capco unterstützt Banken, Versicherer und FinTechs bei der digitalen Transformation, Regulatorik und Innovation – mit besonderem Fokus auf agile Projektarbeit.",
+    "description_short": "Ein global agierendes Beratungsunternehmen mit Fokus auf die Finanzdienstleistungsbranche. Capco unterstützt Banken, Versicherer und FinTechs bei der digitalen Transformation, Regulatorik und Innovation.",
     "vector": [
       -0.017860474064946175,
       -0.016482515260577202,
